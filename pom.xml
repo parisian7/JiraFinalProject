@@ -18,7 +18,7 @@
         <cucumber-java.version>5.7.0</cucumber-java.version>
         <cucumber-junit.version>5.7.0</cucumber-junit.version>
         <webdrivermanager.version>4.0.0</webdrivermanager.version>
-        <httpclient.version>4.5.6</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <javafaker.version>1.0.2</javafaker.version>
         <jackson-databind.version>2.10.0</jackson-databind.version>
         <rest-assured.version>4.3.0</rest-assured.version>
